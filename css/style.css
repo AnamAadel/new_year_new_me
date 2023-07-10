@@ -234,6 +234,7 @@ footer {
   font-weight: 400;
   margin-top: 1.93rem;
   margin-bottom: 1rem;
+  color: var(--white);
 }
 .footer_right_side form input[type="submit"] {
   padding: 1.31rem;
